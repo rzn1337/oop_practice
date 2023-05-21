@@ -1,0 +1,2 @@
+10001, john doe, CASUAL
+10002, ana de armas, CASUAL

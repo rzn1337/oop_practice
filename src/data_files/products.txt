@@ -1,0 +1,4 @@
+Slice, Drink, 1001, 2.99, 3
+Mars, Chocolate, 1002, 4.45, 5
+Catty Chins, Corn Chips, 1003, 7.6, 13
+Lays Paprika, Potato Chips, 1004, 8.6, 9
